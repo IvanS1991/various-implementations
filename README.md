@@ -1,6 +1,6 @@
-# Project Title
+# Various implementations
 
-Various implementations
+Implementation of various built-in and library utilities, with the intent of practicing ES5 syntax.
 
 ### Prerequisites
 
