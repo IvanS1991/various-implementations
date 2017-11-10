@@ -1,0 +1,34 @@
+{
+  "name": "various-implementations",
+  "version": "1.0.0",
+  "description": "Implementation of various built-in and library utilities, intended to practice ES5",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha ./tests",
+    "dev": "./node_modules/.bin/gulp dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanS1991/various-implementations.git"
+  },
+  "keywords": [
+    "JS",
+    "ES5",
+    "Playground"
+  ],
+  "author": "Ivan Shtarbanov <ivan.shtarbanov1991@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IvanS1991/various-implementations/issues"
+  },
+  "homepage": "https://github.com/IvanS1991/various-implementations#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "gulp": "^3.9.1",
+    "gulp-jshint": "^2.0.4",
+    "gulp-mocha": "^4.3.1",
+    "jshint": "^2.9.5",
+    "mocha": "^4.0.1",
+    "sinon": "^4.1.2"
+  }
+}
